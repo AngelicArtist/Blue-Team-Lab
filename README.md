@@ -17,3 +17,16 @@ Kali Linux ============================
 
 ![image](https://github.com/user-attachments/assets/927830a4-fbdc-40fb-8cb5-0368a1265fe7)
 
+
+
+pfSense rules ============================
+
+
+![image](https://github.com/user-attachments/assets/fe5541c8-1435-4407-b6ba-9d3647b78801)
+
+![image](https://github.com/user-attachments/assets/f4dcaa56-0193-4390-9bc6-70385888d2f2)
+
+![image](https://github.com/user-attachments/assets/7cb15aed-4589-419c-b2a2-d16ce1aaa366)
+
+![image](https://github.com/user-attachments/assets/fce40b04-9d1a-47c9-a6cf-1869663d02f6)
+
