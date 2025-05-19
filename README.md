@@ -9,3 +9,11 @@ pfSense==========================================
 
 
 ![Screenshot 2025-05-18 193521](https://github.com/user-attachments/assets/09955924-e557-44dd-893b-270c4b103460)
+
+
+
+
+Kali Linux ============================
+
+![image](https://github.com/user-attachments/assets/927830a4-fbdc-40fb-8cb5-0368a1265fe7)
+
