@@ -30,3 +30,10 @@ pfSense rules ============================
 
 ![image](https://github.com/user-attachments/assets/fce40b04-9d1a-47c9-a6cf-1869663d02f6)
 
+
+
+vuln VM Setup =================
+
+![image](https://github.com/user-attachments/assets/2822a464-3f4f-449d-93c5-c62c48d27084)
+
+![image](https://github.com/user-attachments/assets/cf7559eb-110d-417a-a986-e52c1e8ab12e)
