@@ -37,3 +37,8 @@ vuln VM Setup =================
 ![image](https://github.com/user-attachments/assets/2822a464-3f4f-449d-93c5-c62c48d27084)
 
 ![image](https://github.com/user-attachments/assets/cf7559eb-110d-417a-a986-e52c1e8ab12e)
+
+setting up AD ===================
+
+![image](https://github.com/user-attachments/assets/f4e6bf9b-70e2-4e4c-8469-cea052260f85)
+
