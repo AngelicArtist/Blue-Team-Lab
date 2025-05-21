@@ -42,3 +42,9 @@ setting up AD ===================
 
 ![image](https://github.com/user-attachments/assets/f4e6bf9b-70e2-4e4c-8469-cea052260f85)
 
+
+Malware analysis lab
+
+![image](https://github.com/user-attachments/assets/5b8ae3a6-76cd-4ef1-8d52-80e519f05d4c)
+
+![Screenshot 2025-05-21 113152](https://github.com/user-attachments/assets/9075e2bd-336c-45bb-bc92-2838a0d0dc4c)
