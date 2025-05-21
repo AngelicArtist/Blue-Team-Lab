@@ -48,3 +48,8 @@ Malware analysis lab
 ![image](https://github.com/user-attachments/assets/5b8ae3a6-76cd-4ef1-8d52-80e519f05d4c)
 
 ![Screenshot 2025-05-21 113152](https://github.com/user-attachments/assets/9075e2bd-336c-45bb-bc92-2838a0d0dc4c)
+
+DFIR (Tsurugi)
+
+![image](https://github.com/user-attachments/assets/1628d418-0c10-4489-90fc-d1371359ea89)
+
