@@ -47,9 +47,27 @@ Malware analysis lab
 
 ![image](https://github.com/user-attachments/assets/5b8ae3a6-76cd-4ef1-8d52-80e519f05d4c)
 
+
 ![Screenshot 2025-05-21 113152](https://github.com/user-attachments/assets/9075e2bd-336c-45bb-bc92-2838a0d0dc4c)
 
 DFIR (Tsurugi)
 
 ![image](https://github.com/user-attachments/assets/1628d418-0c10-4489-90fc-d1371359ea89)
+
+
+
+splunk and UF ======================
+
+![image](https://github.com/user-attachments/assets/754a4b57-9073-47ca-a4d4-4d54ed1f5005)
+
+![image](https://github.com/user-attachments/assets/25595e1b-6f50-4463-9518-9bf3ba703ca1)
+
+File transfer ================
+
+![image](https://github.com/user-attachments/assets/d9906b7e-5bd5-49e0-8da1-7e707dde95cc)
+
+![image](https://github.com/user-attachments/assets/383c5749-80a9-4bb6-814c-8376183ee12c)
+
+
+![image](https://github.com/user-attachments/assets/06899811-f55e-493d-8f7e-f6816c024f27)
 
